@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## 使用中文编写代码
 
-You can use the [editor on GitHub](https://github.com/nobodxbodon/program-in-chinese/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+大胆假设:以中文为母语的所有程序员,从事的项目中,90%是单人项目,剩下的10%中,90%是只有同样是中文为母语的程序员参与维护的,这样,只有1%的项目存在国际合作(使用英文编写代码)的硬性需要.为了这1%的需要,而在剩下的99%中使用英文,得不偿失.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+请有类似经验或兴趣的各位畅所欲言.
 
-### Markdown
+### 实验项目:
+[基于Spring Boot的进销存演示](https://github.com/nobodxbodon/jinxiaocun), 包括在数据库中使用中文命名表格,列.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nobodxbodon/program-in-chinese/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[添加中文关键词的Coffeescript](https://github.com/nobodxbodon/coffeescript), 鉴于关键词并不能改进多少可读性,这个方向已经停止尝试.
