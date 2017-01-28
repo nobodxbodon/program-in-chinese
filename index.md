@@ -9,6 +9,9 @@
 
 [添加中文关键词的Coffeescript](https://github.com/nobodxbodon/coffeescript), 由于并不能改进多少可读性,这个方向已经停止尝试.
 
+### 支持中文代码的编程语言
+Java, JavaScript, Python 3, CoffeeScript
+
 ### FAQ
 
 - **中文输入太慢, 降低开发效率**
