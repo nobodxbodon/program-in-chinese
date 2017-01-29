@@ -9,8 +9,13 @@
 
 [添加中文关键词的Coffeescript](https://github.com/nobodxbodon/coffeescript), 由于并不能改进多少可读性,这个方向已经停止尝试.
 
-### 支持中文代码的编程语言
+### 编程语言对中文代码的支持
+
+#### 支持:
 [Java 8](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.java), [JavaScript](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.js), [Python 3](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.py), [CoffeeScript](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.coffee)
+
+#### 不支持:
+C, C++, Python 2
 
 ### FAQ
 
