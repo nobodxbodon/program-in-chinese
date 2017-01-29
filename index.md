@@ -18,6 +18,7 @@
 C, C++(gcc 4.3.2), Python 2
 
 ### FAQ
+(转载)[发展中文编程的意义：让大众化编程促进软件产业的建设](http://www.hystudio.net/726.html)已对很多质疑作出了[回应](http://www.hystudio.net/726.html#jieda)
 
 - **中文输入太慢, 降低开发效率**
 
