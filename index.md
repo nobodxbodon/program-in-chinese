@@ -10,7 +10,7 @@
 [添加中文关键词的Coffeescript](https://github.com/nobodxbodon/coffeescript), 由于并不能改进多少可读性,这个方向已经停止尝试.
 
 ### 支持中文代码的编程语言
-Java, JavaScript, Python 3, CoffeeScript
+[Java](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.java), JavaScript, Python 3, CoffeeScript
 
 ### FAQ
 
