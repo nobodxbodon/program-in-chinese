@@ -4,11 +4,6 @@
 
 请有类似经验或兴趣的各位[畅所欲言](https://github.com/nobodxbodon/program-in-chinese/issues/new).
 
-### 实验项目:
-[基于Spring Boot的进销存演示](https://github.com/nobodxbodon/jinxiaocun), 包括用中文命名Java类/变量/方法,数据库中的表格/列.
-
-[添加中文关键词的Coffeescript](https://github.com/nobodxbodon/coffeescript), 由于并不能改进多少可读性,这个方向已经停止尝试.
-
 ### 编程语言对中文代码的支持
 
 #### 支持(在[知乎回答](https://www.zhihu.com/question/26071216/answer/143429606)中引用):
@@ -16,6 +11,14 @@
 
 #### 不支持:
 C, C++(gcc 4.3.2), Python 2
+
+### 实用项目:
+(虚位以待)
+
+### 实验项目:
+[基于Spring Boot的进销存演示](https://github.com/nobodxbodon/jinxiaocun), 包括用中文命名Java类/变量/方法,数据库中的表格/列.
+
+[添加中文关键词的Coffeescript](https://github.com/nobodxbodon/coffeescript), 由于并不能改进多少可读性,这个方向已经停止尝试.
 
 ### FAQ
 (转载)[发展中文编程的意义：让大众化编程促进软件产业的建设](http://www.hystudio.net/726.html)已对很多质疑作出了[回应](http://www.hystudio.net/726.html#jieda)
