@@ -1,3 +1,5 @@
+// # tested in http://coffeescript.org/, "Try CoffeeScript"
+
 斐波那契 = (数) ->
     if 数 < 2
         1
