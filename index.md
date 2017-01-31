@@ -1,9 +1,6 @@
 ---
 title: Program in Chinese
 email: fromwheretowhere.service@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  How to code using Chinese language, including programming language support, IDE support, and demo projects.
-  如何用中文编写代码, 包括编程语言支持, 开发环境支持, 与示例项目.
 ---
 
 ## 使用中文编写代码
