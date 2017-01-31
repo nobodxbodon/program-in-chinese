@@ -1,3 +1,6 @@
+---
+description: How to code using Chinese language, including programming language support, IDE support, and demo projects. 如何用中文编写代码, 包括编程语言支持, 开发环境支持, 与示例项目.
+---
 ## 使用中文编写代码
 
 大胆假设:以中文为母语的所有程序员,从事的项目中,90%*是单人项目,剩下的10%中,90%只有同样是中文为母语的程序员参与.这样,只有1%的项目有用英文写代码的硬性需要.为了这1%的需要,而在剩下的99%中使用英文,得不偿失.
