@@ -25,10 +25,8 @@ C, C++(gcc 4.3.2), Python 2, [Ruby](https://github.com/nobodxbodon/program-in-ch
 [添加中文关键词的Coffeescript](https://github.com/nobodxbodon/coffeescript), 由于并不能改进多少可读性,这个方向已经停止尝试.
 
 ### 中文开发常见技术问题
-#### IDE
-频繁切换中英文: 为了在输入中文的同时不用切换就可以输入特殊符号(){};等等, 搜狗输入法支持"中文时使用英文标点"
-##### Eclipse
-[Some characters cannot be mapped using "Cp1252" character encoding](http://stackoverflow.com/questions/3598117/unable-to-create-a-file-with-foreign-language-characters)
+- 频繁切换中英文: 为了在输入中文的同时不用切换就可以输入特殊符号(){};等等, 搜狗输入法支持"中文时使用英文标点"
+- Eclipse [Some characters cannot be mapped using "Cp1252" character encoding](http://stackoverflow.com/questions/3598117/unable-to-create-a-file-with-foreign-language-characters)
 
 ### 质疑与回应
 (转载)[发展中文编程的意义：让大众化编程促进软件产业的建设](http://www.hystudio.net/726.html)已对很多质疑作出了[回应](http://www.hystudio.net/726.html#jieda)
