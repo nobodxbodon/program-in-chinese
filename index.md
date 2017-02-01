@@ -10,19 +10,16 @@ email: fromwheretowhere.service@gmail.com
 
 ### 编程语言对中文代码的支持
 
-#### 支持(在[知乎回答](https://www.zhihu.com/question/26071216/answer/143429606)中引用):
-[Java 8](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.java), [JavaScript](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.js), [C#](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.cs), [PHP](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.php), [Python 3](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.py), [Go](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.go), [Scala](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.scala), [Perl6](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.pl), [Common Lisp](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.lisp), [CoffeeScript](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.coffee)
-
-#### 不支持:
-C, C++(gcc 4.3.2), Python 2, [Ruby](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.rb), Perl5
+| 支持(在[知乎回答](https://www.zhihu.com/question/26071216/answer/143429606)中引用) | [Java 8](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.java), [JavaScript](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.js), [C#](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.cs), [PHP](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.php), [Python 3](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.py), [Go](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.go), [Scala](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.scala), [Perl6](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.pl), [Common Lisp](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.lisp), [CoffeeScript](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.coffee) |
+| ------------- | ------------- |
+| 不支持 | C, C++(gcc 4.3.2), Python 2, [Ruby](https://github.com/nobodxbodon/program-in-chinese/blob/master/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.rb), Perl5 |
 
 ### 实用项目:
 (虚位以待)
 
 ### 实验项目:
-[基于Spring Boot的进销存演示](https://github.com/nobodxbodon/jinxiaocun), 包括用中文命名Java类/变量/方法,数据库中的表格/列.
-
-[添加中文关键词的Coffeescript](https://github.com/nobodxbodon/coffeescript), 由于并不能改进多少可读性,这个方向已经停止尝试.
+- [基于Spring Boot的进销存演示](https://github.com/nobodxbodon/jinxiaocun), 包括用中文命名Java类/变量/方法,数据库中的表格/列.
+- [添加中文关键词的Coffeescript](https://github.com/nobodxbodon/coffeescript), 由于并不能改进多少可读性,这个方向已经停止尝试.
 
 ### 中文开发常见技术问题
 - 频繁切换中英文: 为了在输入中文的同时不用切换就可以输入特殊符号(){};等等, 搜狗输入法支持"中文时使用英文标点"
