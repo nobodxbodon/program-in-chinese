@@ -10,10 +10,11 @@ email: fromwheretowhere.service@gmail.com
 
 ### 关键词为中文的编程语言和开发环境
 
-| 实用 | [易语言](http://www.dywt.com.cn/)，[按键精灵](http://www.anjian.com/)，[TC简单程序开发](http://www1.tyuyan.net/)，[习语言](http://blog.163.com/xiyuyan@yeah/)，[标天汇编](http://www.onlinedown.net/soft/50298.htm)([备份](http://www.jgegd.com/biaotian/btasm/btasm.zip)) |
+| 实用 | [易语言](http://www.dywt.com.cn/)，[按键精灵](http://www.anjian.com/)，[TC简单程序开发](http://www1.tyuyan.net/)，[习语言](http://blog.163.com/xiyuyan@yeah/) |
 | ------------- | ------------- |
 | 先驱 | [中蟒](http://www.chinesepython.org/) [周蟒](https://code.google.com/archive/p/zhpy/) |
 | 实验 | 定义中文关键词：[iOS开发](https://github.com/uxyheaven/yi-ios)，[Coffeescript](https://github.com/nobodxbodon/coffeescript) |
+| 待考证 | [标天汇编](http://www.onlinedown.net/soft/50298.htm)([备份](http://www.jgegd.com/biaotian/btasm/btasm.zip)) |
 
 ### 其他编程语言对中文代码的支持
 
