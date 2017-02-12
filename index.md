@@ -9,8 +9,10 @@ email: fromwheretowhere.service@gmail.com
 欢迎[畅所欲言](https://github.com/nobodxbodon/program-in-chinese/issues/new).
 
 ### 关键词为中文的编程语言和开发环境
-- 实用: [易语言](http://www.dywt.com.cn/)，[按键精灵](http://www.anjian.com/)，[TC简单程序开发](http://www1.tyuyan.net/)，[习语言](http://blog.163.com/xiyuyan@yeah/)，[标天汇编](http://www.onlinedown.net/soft/50298.htm)([备份](http://www.jgegd.com/biaotian/btasm/btasm.zip))
-- 实验: [用中文关键词进行iOS开发](https://github.com/uxyheaven/yi-ios)，[添加中文关键词的Coffeescript](https://github.com/nobodxbodon/coffeescript)(由于并不能改进多少可读性,已停止维护).
+| 实用 | [易语言](http://www.dywt.com.cn/)，[按键精灵](http://www.anjian.com/)，[TC简单程序开发](http://www1.tyuyan.net/)，[习语言](http://blog.163.com/xiyuyan@yeah/)，[标天汇编](http://www.onlinedown.net/soft/50298.htm)([备份](http://www.jgegd.com/biaotian/btasm/btasm.zip)) |
+| ------------- | ------------- |
+| 先驱 | [中蟒](http://www.chinesepython.org/) [周蟒](https://code.google.com/archive/p/zhpy/) |
+| 实验 | 定义中文关键词：[iOS开发](https://github.com/uxyheaven/yi-ios)，[Coffeescript](https://github.com/nobodxbodon/coffeescript) |
 
 ### 其他编程语言对中文代码的支持
 
