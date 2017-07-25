@@ -49,3 +49,6 @@ email: fromwheretowhere.service@gmail.com
 答：就像搞学术的需要的时候自然逼着看英文刊物，有硬性需要的时候自然会去看国外网站。如果这就会影响，那么也许本来就不那么需要。
 
 ##### *根据[Fun with GitHub repositories statistics](https://blog.sourced.tech/post/github_stats/), github上的1-contributor repository大约是60%. 当然还有很多项目没有开源. 上面的90%仍然是假设.
+
+### 参考资料
+[Unicode in Ruby, Perl, Python, JavaScript, Java, Emacs Lisp, Mathematica](http://xahlee.info/comp/unicode_support_ruby_python_elisp.html)
