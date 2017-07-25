@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # 运行: $ ruby 斐波那契.rb
 
 def 斐波那契( n )
