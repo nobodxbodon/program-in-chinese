@@ -1,4 +1,8 @@
-# tested in ideone.com, perl6
+# -*- coding: utf-8 -*-
+# 测试于: ideone.com, perl6
+# 本地测试perl v5.12.4: $ perl 斐波那契.pl
+
+use utf8;
 
 sub 斐波那契
 {
