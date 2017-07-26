@@ -3,6 +3,8 @@ title: Program in Chinese
 email: fromwheretowhere.service@gmail.com
 ---
 
+# 本页面不再更新. 请移步[中文编程讨论区](https://github.com/program-in-chinese/overview)
+
 ## 使用中文编写代码
 
 大胆假设:以中文为母语的所有程序员,从事的项目中,90%*是单人项目,剩下的10%中,90%只有同样是中文为母语的程序员参与.这样,只有1%的项目有用英文写代码的硬性需要.为了这1%的需要,而在剩下的99%中使用英文,得不偿失.
