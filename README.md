@@ -1,2 +1,1 @@
-# program-in-chinese
-使用中文进行代码开发
+# 不再更新. 请移步到[中文编程讨论区](https://github.com/program-in-chinese/overview)
